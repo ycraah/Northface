@@ -13,7 +13,7 @@ function mainViewSwiper() {
     pagination: {
       type: "bullets",
       el: ".swiper-pagination",
-      clickable: ture,
+      clickable: true,
     },
   });
 }

@@ -936,7 +936,8 @@ html > body {
   font-size: 14px;
 }
 .intrerestedItems .viewAllInterestedItems__swiper-box {
-  max-width: 1440px;
+  max-width: 1780px;
+  position:relative;
 }
 .intrerestedItems
   .viewAllInterestedItems__swiper-box
@@ -944,6 +945,8 @@ html > body {
   .items-box {
   margin-right: 10px;
   position: relative;
+  max-width:350px;
+	margin-right:10px;
 }
 .intrerestedItems
   .viewAllInterestedItems__swiper-box
@@ -1031,7 +1034,7 @@ html > body {
 .intrerestedItems .swiper-button-group {
   width: 50px;
   position: absolute;
-  top: 20%;
+  top: -10%;
   right: 5%;
   transform: translateY(-50%);
   z-index: 10;

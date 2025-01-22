@@ -880,11 +880,11 @@ html > body {
   left: 0;
 }
 .content-container.travel .travel__left-box .text-box .text-head {
-  font-size: calc(30px + 1.25 * (100vw - 767px) / 42.0625);
+  font-size: 35px;
   margin-bottom: 25px;
 }
 .content-container.travel .travel__left-box .text-box .text-bopdy {
-  font-size: calc(12px + 0.25 * (100vw - 767px) / 42.0625);
+  font-size: 12px;
 }
 .content-container.travel .travel__right-box {
   position: relative;
@@ -937,7 +937,7 @@ html > body {
 }
 .intrerestedItems .viewAllInterestedItems__swiper-box {
   max-width: 1780px;
-  position:relative;
+  position: relative;
 }
 .intrerestedItems
   .viewAllInterestedItems__swiper-box
@@ -945,8 +945,7 @@ html > body {
   .items-box {
   margin-right: 10px;
   position: relative;
-  max-width:370px;
-	margin-right:10px;
+  max-width: 370px;
 }
 .intrerestedItems
   .viewAllInterestedItems__swiper-box
@@ -1298,11 +1297,11 @@ html > body {
   padding: 2.083vw 2.188vw;
 }
 .kidsSummerRise ul li .kidsSummerRise__content-box .text-box__header {
-  font-size: 2.063vw;
+  font-size: 1.5vw;
   font-weight: 600;
 }
 .kidsSummerRise ul li .kidsSummerRise__content-box .text-box__body {
-  font-size: 1.233vw;
+  font-size: 1vw;
   margin-top: 0.781vw;
   font-weight: 400;
 }
